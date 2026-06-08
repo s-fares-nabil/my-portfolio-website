@@ -1,6 +1,6 @@
 # Fares Elsherif — Portfolio
 
-[![Live Site](https://img.shields.io/badge/Live-fareselsherif.com-blue?style=flat-square)](http://fareselsherif.com)
+[![Live Site](https://img.shields.io/badge/Live-s--fares--nabil.github.io-blue?style=flat-square)](https://s-fares-nabil.github.io)
 [![HTML Valid](https://img.shields.io/badge/HTML-valid-brightgreen?style=flat-square)]()
 [![GitHub Pages](https://img.shields.io/badge/Hosted-GitHub%20Pages-222?style=flat-square&logo=github)]()
 
@@ -57,7 +57,7 @@ python -m http.server 8000
 - Email: s-fares.nabil@zewailcity.edu.eg
 - GitHub: [@s-fares-nabil](https://github.com/s-fares-nabil)
 - LinkedIn: [Fares Elsherif](https://www.linkedin.com/in/fares-elsherif-123945378)
-- Web: [fareselsherif.com](http://fareselsherif.com)
+- Web: [s-fares-nabil.github.io](https://s-fares-nabil.github.io)
 
 ---
 

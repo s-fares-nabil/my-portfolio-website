@@ -1,61 +1,64 @@
-# Fares Mohammed Nabil Elsherif
+# Fares Elsherif — Portfolio
 
-**Mechatronics Engineering Student | Embedded Systems & Industrial Automation Enthusiast**
+[![Live Site](https://img.shields.io/badge/Live-fareselsherif.com-blue?style=flat-square)](http://fareselsherif.com)
+[![HTML Valid](https://img.shields.io/badge/HTML-valid-brightgreen?style=flat-square)]()
+[![GitHub Pages](https://img.shields.io/badge/Hosted-GitHub%20Pages-222?style=flat-square&logo=github)]()
 
-Welcome to my portfolio website repository. This website showcases my projects, technical skills, achievements, and engineering journey.
+Personal portfolio for Fares Elsherif — Mechatronics Engineering student at **Zewail City of Science and Technology**, focused on **Embedded Systems**, **IoT**, and **Industrial Automation**.
 
-## About Me
-
-I am an Engineering student at Zewail City of Science and Technology with a strong interest in:
-
-- Embedded Systems
-- Industrial Automation
-- Robotics
-- Control Systems
-- Internet of Things (IoT)
-- Mechatronics Engineering
-
-I enjoy designing and building real-world engineering solutions that combine hardware and software.
-
-## Featured Projects
-
-### Smart Traffic Light Control System
-- ESP32-based traffic control system
-- Integrated timing and sequencing logic
-- Hardware and software implementation
-
-### Aquaculture Water Quality Monitoring System
-- Real-time monitoring of water conditions
-- ESP32 and sensor integration
-- Data visualization and remote monitoring
-
-### Smart Irrigation System
-- Automated irrigation control
-- Sensor-driven decision making
-- Efficient water management
-
-## Technical Skills
-
-- C++
-- Python
-- Arduino
-- ESP32
-- Embedded Systems
-- Industrial Automation
-- Sensor Integration
-- Git & GitHub
-- Microsoft Excel
-- Microsoft PowerPoint
-
-## Education
-
-**Zewail City of Science and Technology**  
-Engineering Student (Incoming Mechatronics Track)
-
-## Connect With Me
-
-- Email: s-fares.nabil@zewailcity.edu.eg
-- GitHub: https://github.com/s-fares-nabil
+![Portfolio preview](profile.jpg)
 
 ---
-© Fares Mohammed Nabil Elsherif
+
+## Features
+
+- Clean, modern design — Tailwind CSS, custom animations, fully responsive
+- Project showcase — 6 projects with GitHub links
+- Contact section — Email, GitHub, LinkedIn, phone
+- Accessible — Skip nav link, aria labels, prefers-reduced-motion support
+
+## Tech Stack
+
+| What | How |
+|---|---|
+| Styling | Tailwind CSS (via CDN) |
+| Fonts | Space Grotesk + DM Sans (Google Fonts) |
+| Icons | Inline SVG |
+| Animations | CSS keyframes + IntersectionObserver |
+| Hosting | GitHub Pages |
+
+## Run Locally
+
+```bash
+git clone https://github.com/s-fares-nabil/s-fares-nabil.github.io.git
+cd s-fares-nabil.github.io
+# Open index.html in your browser — no build step needed
+```
+
+Or serve locally:
+
+```bash
+python -m http.server 8000
+# Visit http://localhost:8000
+```
+
+## Structure
+
+```
+.
+├── index.html       # Main portfolio
+├── profile.jpg      # Profile photo
+├── README.md
+└── .github/workflows/  # GitHub Pages deployment
+```
+
+## Connect
+
+- Email: s-fares.nabil@zewailcity.edu.eg
+- GitHub: [@s-fares-nabil](https://github.com/s-fares-nabil)
+- LinkedIn: [Fares Elsherif](https://www.linkedin.com/in/fares-elsherif-123945378)
+- Web: [fareselsherif.com](http://fareselsherif.com)
+
+---
+
+© 2026 Fares Elsherif
